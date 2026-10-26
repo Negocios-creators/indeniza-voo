@@ -15,6 +15,8 @@ Criativo "Carrossel voo cancelado - escrita janela": R$140,12, 5 leads, CPL R$28
 Criativo "005 - Bagagem 7 dias - novo formulário curto": R$38,83, 2 leads, CPL R$19,41, CTR 4,14%.
 Criativo "005 - Bagagem 7 dias": R$92,51, 0 leads, CPL sem lead, CTR 2,53%.
 Dia a dia: seg 19/10 R$64,92 e 3 lead(s); ter 20/10 R$75,47 e 3 lead(s); qua 21/10 R$71,41 e 4 lead(s); qui 22/10 R$63,39 e 0 lead(s); sex 23/10 R$67,87 e 2 lead(s); sáb 24/10 R$41,32 e 1 lead(s); dom 25/10 R$89,33 e 5 lead(s).
+Motivos de perda da planilha (17 linhas): Sem retorno / sem contato 12 (71%); Telefone inválido ou sem telefone 4 (24%); Não tem interesse 1 (6%).
+Perdas do criativo "002 - companhias aéreas - formulário curto": 11, principal motivo Sem retorno / sem contato com 7.
 Orçamento: média R$67,67 por dia (teto R$66); 4 dia(s) acima do teto; maior dia R$89,33 em 25/10.
 Contexto fixo: lead do Meta soma formulário instantâneo e site; contrato assinado é o negócio que chegou à fase Ingressar com ação no Moskit.
 Em 24/09/2026 entraram campanhas novas com um pixel novo (criado em 23/09/2026), então o aprendizado do Meta recomeçou nessas campanhas.
